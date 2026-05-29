@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#code from bennett for safely uploading workbooks from all of us
+#code for safely uploading workbooks from all of us
 # NAVIGATE TO FOLDER IN WORKSPACE
 cd ~/workspaces/htndementiametaanalysis/
 
