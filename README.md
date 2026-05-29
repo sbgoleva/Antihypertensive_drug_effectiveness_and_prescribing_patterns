@@ -10,13 +10,13 @@ This work has been published in *CPT: Pharmacometrics & Systems Pharmacology* (2
 **Racial and Ethnic Disparities in Antihypertensive Medication Prescribing Patterns and Effectiveness**
 Slavina B. Goleva, Ariel Williams, David J. Schlueter, Jacob M. Keaton, Tam C. Tran, Bennett J. Waxse, Tracey M. Ferrara, Thomas Cassini, Huan Mo, Joshua C. Denny
 
-🔗 [https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3360](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3360)
+[https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3360](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.3360)
 
 ---
 
 ## Overview
 
-This repository contains the analysis code supporting the above publication. The primary focus is to understand **racial and ethnic disparities in antihypertensive drug effectiveness and prescribing patterns** across self-identified Hispanic/Latino (Hispanic), Non-Hispanic Black (Black), and Non-Hispanic White (White) populations enrolled in the NIH All of Us Research Program — a US longitudinal cohort.
+This repository contains the analysis code supporting the above publication. The primary focus is to understand **racial and ethnic disparities in antihypertensive drug effectiveness and prescribing patterns** across self-identified Hispanic/Latino (Hispanic), Non-Hispanic Black (Black), and Non-Hispanic White (White) populations enrolled in the NIH All of Us Research Program - a US longitudinal cohort.
 
 Using a self-controlled case study method with electronic health record and survey data from **17,718 participants** diagnosed with essential hypertension and prescribed at least one of 19 commonly used antihypertensive medications, this work found:
 
